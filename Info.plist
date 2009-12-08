@@ -22,19 +22,17 @@
 	<key>AMDefaultParameters</key>
 	<dict>
 		<key>caseInsensitive</key>
-		<string>0</string>
+		<string>No</string>
 		<key>extended</key>
-		<string>0</string>
+		<string>No</string>
 		<key>lazy</key>
-		<string>0</string>
+		<string>No</string>
 		<key>component</key>
 		<string>1</string>
 		<key>pattern</key>
 		<string></string>
 		<key>replace</key>
 		<string></string>
-		<key>filenameOnly</key>
-		<string>1</string>
 	</dict>
 	<key>AMDescription</key>
 	<dict>
