@@ -23,8 +23,13 @@
 	NSInteger component;
 }
 
+- (id)initWithDefinition:(NSDictionary *)dict
+			 fromArchive:(BOOL)archived;
+
 - (id)runWithInput:(id)input
 		fromAction:(AMAction *)anAction
 			 error:(NSDictionary **)errorInfo;
+
+- (void)updateParameters;
 
 @end
