@@ -6,7 +6,7 @@
 //  Copyright (c) 2009 Technische Universitaet Wien, All Rights Reserved.
 //
 
-#import <AGRegex/AGRegex.h>
+#import "AGRegex.h"
 
 #import "Rename Finder Items with Regex.h"
 
